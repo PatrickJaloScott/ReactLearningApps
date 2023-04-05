@@ -1,5 +1,5 @@
 # dependencies
-app_1/node_modules
+app_1_fixed/node_modules
 app_2/node_modules
 /.pnp
 .pnp.js
