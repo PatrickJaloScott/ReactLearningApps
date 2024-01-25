@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('../app_downloads');
+var app = require('../index');
 var debug = require('debug')('app-express:server');
 var http = require('http');
 
